@@ -1,1 +1,1 @@
-learning input/output redirections on the shell
+learning how to use input and output redirection on linuz command line  
